@@ -1,0 +1,15 @@
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/jamespark/.rbenv/versions/2.6.3/bin/ruby -I /Users/jamespark/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190519-66876-bp5291.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20190519-66876-1eqkktf

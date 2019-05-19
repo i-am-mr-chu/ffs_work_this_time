@@ -1,0 +1,15 @@
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/jamespark/.rbenv/versions/2.6.3/bin/ruby -I /Users/jamespark/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190519-66876-1628ebs.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190519-66876-1t8tn1m/skiptrace

@@ -1,0 +1,19 @@
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/jamespark/.rbenv/versions/2.6.3/bin/ruby -I /Users/jamespark/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190519-66876-1qmxosu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/jamespark/odin_on_rails/ffs_work_this_time/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190519-66876-19425mh/byebug
